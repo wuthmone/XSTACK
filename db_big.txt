@@ -1,0 +1,120 @@
+14833,Alice in Wonderland,Lewis Carroll,1865,28
+15322,War of the World,H.G. Wells,1953,17
+20983,The City,Dean Kootnz,2014,36
+19123,The Hobbitt,J.R.R. Tolkien,1938,178
+24504,The Old Man and the Sea,Ernest Hemingway,1951,135
+13323,My Experiments with Truth,Mahatma M.K.Gandhi,1929,6
+19232,Far from the Madding Crowd,Thomas Hardy,1874,2
+11219,The Merchant of Venice,William Shakespeare,1605,26
+15677,A Tale of Two Cities,Charles Dickens,1859,37
+15899,David Copperfield,Charles Dickens,1850,29
+13298,Gulliver's Travels,Jonathan Swift,1726,67
+17666,Pride and Prejudice,Jane Austen,1813,82
+11889,Time Machine,H.G. Wells,1895,13
+20981,Mein Kampf,Adolf Hitler,1925,10
+15245,Invisible Man,H.G. Wells,1897,16
+12290,Around the World in Eighty Days,Jules Verne,1873,58
+23280,Nineteen Eighty-Four,George Orwell,1949,103
+19911,War and Peace,Leo Tolstoy,1869,149
+14923,Adventures of Sherlock Holmes,Arthur Conan Doyle,1892,66
+19002,Robinson Crusoe,Daniel Defoe,1719,24
+11198,Faust,Goethe,1808,0
+18725,A Doctor in the House,Mahathir Mohamad,2011,26
+15533,The Singapore Story,Lee Kuan Yew,1998,20
+18929,A Brief History of Time,Stephen Hawking,1998,25
+17911,Les Miserable,Victor Hugo,1862,96
+24501,The Bourne Identity,Robert Ludlum,1980,71
+14796,The Lion the Witch and the Wardrobe,C.S. Lewis,1950,68
+18989,The Mist,Stephen King,1980,9
+15263,Cosmos,Carl Sagan,1980,20
+18677,Anna Karenina,Leo Tolstoy,1877,136
+10234,Shape of Things to Come,H.G. Wells,1933,3
+11329,King Lear,William Shakespeare,1606,18
+19283,Plague,Albert Camus,1947,9
+22001,Pickwick Papers,Charles Dickens,1836,23
+20095,Mother,Maxim Gorky,1906,7
+17921,Hunchback of Notre Dame,Victor Hugo,1831,36
+11448,Dr.Zhivago,Boris Pasternak,1957,4
+17892,Canterbury Tales,Chaucer,1475,0
+13056,Das Kapital,Karl Marx,1867,8
+11400,Death of a City,Amrita Pritam,1976,2
+14811,Ben Hur,Lewis Wallace,1880,67
+20101,Treasure Island,Robert Louis Stevenson,1883,123
+21555,Animal Farm,George Orwell,1945,211
+13579,Adventures of Tom Sawyer,Mark Twain,1976,189
+17701,Le Contract Social,Jean Jacques Rousseau,1762,5
+13731,Freedom at Midnight,Dominique Lapierre,1975,1
+20987,Jungle Book,Rudyard Kipling,1894,158
+11550,Oliver Twist,Charles Dickens,1837,124
+17170,Three Musketeers,Alexander Dumas,1844,72
+13334,Ulysses,James Joyce,1922,22
+16016,Waste Land,T.S. Eliot,1995,0
+19909,The City of Joy,Dominique Lapierre,1985,6
+14100,Kidnapped,Robert Louis Stevenson,1886,59
+25901,Old Man and the Sea,Ernest Hemingway,1952,20
+21009,Wealth of Nations,Adam Smith,13
+16928,Comedy of Errors,William Shakespeare,4
+18811,The Castle,Franz Kafka,23
+27101,The Tempest,William Shakespeare,3
+11006,For Whom the Bell Tolls,Ernest Hemingway,1
+17345,Count of Monte Cristo,Alexander Dumas,44
+12546,Antony and Cleopatra,William Shakespeare,10
+22992,Origin of Species,Charles Darwin,30
+21516,Pilgrim's Progress,John Bunyan,37
+11414,One Day in the Life of Ivan Denisovitch,Alexander Solzhenitsyn,0
+15987,Don Quixote,Miguel De Cervantes,1605,84
+25163,Clarissa Samuel Richardson,1748,11
+20000,Dangerous Liaisons,Pierre Choderlos De Laclos,1782,3 
+25518,Emma,Jane Austen,1815,41
+25519,Frankenstein,Mary Shelley,1818,19 
+17770,Nightmare Abbey,Thomas Love Peacock,1818,1
+10155,The Charterhouse of Parma,Stendhal,1839,2
+19090,Sybil,Benjamin Disraeli,1845,4 
+13609,Wuthering Heights,Emily Bronte,1847,15 
+20765,Jane Eyre,Charlotte Bronte,1847,55 
+21089,Vanity Fair,William Makepeace Thackeray,1848,9 
+22579,The Scarlet Letter,Nathaniel Hawthorne,1850,5 
+18200,Moby-Dick,Herman Melville,1851,65
+18202,Madame Bovary,Gustave Flaubert,1856,1 
+18033,The Woman in White,Wilkie Collins,1859,1 
+22159,Little Women,Louisa M. Alcott,1880,14 
+21037,The Way We Live Now,Anthony Trollope,1875,1 
+25501,Daniel Deronda,George Eliot,1876,2 
+11431,The Brothers Karamazov,Fyodor Dostoevsky,1880,19
+17293,Huckleberry Finn,Mark Twain,1884,28  
+27165,Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,46
+27111,Three Men in a Boat,Jerome K. Jerome,1889,5  
+11172,The Picture of Dorian Gray,Oscar Wilde,1890,3
+10269,The Diary of a Nobody,George Grossmith,1892,0
+12069,Jude the Obscure,Thomas Hardy,1895,3
+20690,The Riddle of the Sands,Erskine Childers,1903,2
+19789,The Call of the Wild,Jack London,1903,2
+19280,Nostromo,Joseph Conrad,1904,1 
+25129,The Wind in the Willows,Kenneth Grahame,1908,45
+21592,In Search of Lost Time,Marcel Proust,1913,1
+10005,The Rainbow,D.H. Lawrence,1915,2 	
+19832,The Good Soldier,Ford Madox Ford,1915,2 
+16987,The Thirty-Nine Steps,John Buchan,1915,2
+23001,The Great Gatsby,F. Scott Fitzgerald,1925,17  
+23009,The Trial,Franz Kafka,1925,9 
+21879,Men Without Women,Ernest Hemingway,1927,20
+13861,Brave New World,Aldous Huxley,1931,23 
+11026,As I Lay Dying,William Faulkner,1930,9
+16201,Malone Dies,Samuel Beckett,1951,3 
+12061,Charlotte's Web,E.B. White,1952,7
+20014,The Lord Of The Rings,J.R.R. Tolkien,1954,298
+20401,Lord of the Flies,William Golding,1954,92
+22999,Lolita,Vladimir Nabokov,1955,13  
+28001,To Kill A Mockingbird,Harper Lee,1960,270
+18200,Catch-22,Joseph Heller,1961,24
+12800,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,21
+18608,Waiting for the Barbarians,J.M. Coetzee,1980,6
+16973,The BFG,Roald Dahl,1982,111
+15309,LA Confidential,James Ellroy,1990,10
+21039,Atonement,Ian McEwan,2001,49     
+25023,Austerlitz,W.G. Sebald,2001,12 
+20365,Wise Children,Angela Carter,1991,22
+12036,Haroun and the Sea of Stories,Salman Rushdie,1990,0
+19909,Hamlet,William Shakespeare,1603,41
+19999,Macbeth,William Shakespeare,1606,31
+11500,A Midsummer Night's Dream,William Shakespeare,1595,21
